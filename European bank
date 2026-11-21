@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>European Bank Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f6f9;
+            color: #333;
+        }
+        header {
+            background: #17365d;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+        main {
+            max-width: 850px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+        section {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #17365d;
+        }
+        footer {
+            background: #17365d;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>European Bank Project</h1>
+    <p>Banking Data Analysis</p>
+</header>
+
+<main>
+    <section>
+        <h2>Project Overview</h2>
+        <p>
+            This project focuses on analyzing European banking
+            data to understand customer information and identify
+            meaningful patterns.
+        </p>
+    </section>
+
+    <section>
+        <h2>Project Objectives</h2>
+        <ul>
+            <li>Explore the banking dataset.</li>
+            <li>Analyze customer information.</li>
+            <li>Identify patterns and trends.</li>
+            <li>Develop data analysis skills.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Tools Used</h2>
+        <p>Microsoft Excel</p>
+    </section>
+
+    <section>
+        <h2>Project Repository</h2>
+        <p>Explore the project files on GitHub.</p>
+        <a href="https://github.com/yashibindal3306-rgb/European-Bank">
+            View GitHub Repository
+        </a>
+    </section>
+</main>
+
+<footer>
+    European Bank Project
+</footer>
+
+</body>
+</html>
